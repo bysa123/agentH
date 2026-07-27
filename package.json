@@ -1,0 +1,22 @@
+{
+  "name": "agentH",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.32.1",
+  "dependencies": {
+    "@langchain/anthropic": "^1.5.2",
+    "@langchain/core": "^1.2.3",
+    "@langchain/langgraph": "^1.4.8",
+    "deepagents": "^1.11.1",
+    "dotenv": "^17.4.2",
+    "langchain": "^1.5.4",
+    "zod": "^4.4.3"
+  }
+}
