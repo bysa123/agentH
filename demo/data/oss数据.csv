@@ -1,0 +1,3 @@
+﻿数据集名称,英文名,数据集标识,技术类别,描述,存储引擎,桶名,数据日常管理部门,数据分类,业务对象,数据层次,安全等级,AI场景,数据集规划,来源类型,发版方式,创建人,创建时间,修改人,修改时间,用途,区域管理员,组织机构代码,资产类目,负责人,编辑权限,服务单元标识,服务单元名称,服务单元描述,格式,业务过程,UUID,资产标签,发布人,资产状态,路径
+文本_oss_test01,text_oss_test01,DS_0626_O393T8P,DY_AC_00_00_83e2f9833b024321883225198861f267,,oss,tobsbw0002,test	test,root->资本,,,L1,test,,online,sdk,563495,2026-07-29 15:20:14,,,test,test,BGTA00,test,,,,,,文件,,7fa50698e534454d8603709ff8c87937,,admin,,
+文本_text_test_taxi,text_test_taxi,DS_0626_1JS04E0,DY_AC_00_00_17d5e8019e8a42ce8d6e2a87bdc7e61e,,oss,tobsbw0002,test	test,root->资本,,CDM,L1,test	test,,online,sdk,195238,2026-07-09 13:22:32,,,test	test,test	test,BGTA00,test	test,,,,,,文件,,4a42e6a35a99498eaa4737570166bf99,,admin,,

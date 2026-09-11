@@ -1,0 +1,152 @@
+[
+  {
+    "parentLabelId": "系统标签",
+    "labelId": "系统标签->系统_FL_01",
+    "labelName": "系统_FL_01",
+    "uuid": "34554500-56ba-4520-a52f-e8b02b5705c9"
+  },
+  {
+    "parentLabelId": "系统标签",
+    "labelId": "系统标签->技术类",
+    "labelName": "技术类",
+    "uuid": "efc98ae0d6eb452b94c212254f7841a6"
+  },
+  {
+    "parentLabelId": "系统标签",
+    "labelId": "系统标签->业务类",
+    "labelName": "业务类",
+    "uuid": "bfd4dda76839491da6e431d64e765a27"
+  },
+  {
+    "parentLabelId": "系统标签->系统_FL_01",
+    "labelId": "系统标签->系统_FL_01->系统_CL_01",
+    "labelName": "系统_CL_01",
+    "uuid": "9f2f1424-1aef-46a1-a546-871dcdc3e92a"
+  },
+  {
+    "parentLabelId": "系统标签->技术类",
+    "labelId": "系统标签->技术类->废弃表",
+    "labelName": "废弃表",
+    "uuid": "20bbdf59542c4f16baadd3cdab96da7f"
+  },
+  {
+    "parentLabelId": "系统标签->业务类",
+    "labelId": "系统标签->业务类->生产运营",
+    "labelName": "生产运营",
+    "uuid": "c8e1e724db6748aabe594a6da3f6bd7f"
+  },
+  {
+    "parentLabelId": "系统标签->业务类",
+    "labelId": "系统标签->业务类->综合办公",
+    "labelName": "综合办公",
+    "uuid": "0ed57b84ede74841b2dbe2448d58d513"
+  },
+  {
+    "parentLabelId": "系统标签->业务类",
+    "labelId": "系统标签->业务类->经营管理",
+    "labelName": "经营管理",
+    "uuid": "ba0fd823b54c4b62a4f70e1047b5ed91"
+  },
+  {
+    "parentLabelId": "系统标签->业务类",
+    "labelId": "系统标签->业务类->基础设施",
+    "labelName": "基础设施",
+    "uuid": "ffee2cd54d4d477cb9ae70fd2422a805"
+  },
+  {
+    "parentLabelId": "系统标签->业务类",
+    "labelId": "系统标签->业务类->工业控制",
+    "labelName": "工业控制",
+    "uuid": "beb971e0a47040a4a7edc07c878df619"
+  },
+  {
+    "parentLabelId": "系统标签->技术类",
+    "labelId": "系统标签->技术类->汇聚类型",
+    "labelName": "汇聚类型",
+    "uuid": "7ddbcd406a5d4119a9515e79cb3d8641"
+  },
+  {
+    "parentLabelId": "系统标签->业务类",
+    "labelId": "系统标签->业务类->外购数据",
+    "labelName": "外购数据",
+    "uuid": "91c01b4da2d04ff3b03e7660b2478885"
+  },
+  {
+    "parentLabelId": "系统标签->技术类",
+    "labelId": "系统标签->技术类->TP",
+    "labelName": "TP",
+    "uuid": "abaf06a5fcd741d7bd3008e3c5f9240b"
+  },
+  {
+    "parentLabelId": "系统标签->技术类",
+    "labelId": "系统标签->技术类->AP",
+    "labelName": "AP",
+    "uuid": "5d33343bab5b48f08bc26bdb951d6bbf"
+  },
+  {
+    "parentLabelId": "系统标签->技术类",
+    "labelId": "系统标签->技术类->核心数据",
+    "labelName": "核心数据",
+    "uuid": "3f205800969b4da8a6ab44fc335a018e"
+  },
+  {
+    "parentLabelId": "系统标签->技术类",
+    "labelId": "系统标签->技术类->重要数据",
+    "labelName": "重要数据",
+    "uuid": "bdc259aa708a404ab5e5b49b3a175c35"
+  },
+  {
+    "parentLabelId": "系统标签->技术类",
+    "labelId": "系统标签->技术类->一般数据",
+    "labelName": "一般数据",
+    "uuid": "00d9962a46cf41c5a543d0fc36a279b3"
+  },
+  {
+    "parentLabelId": "系统标签->技术类",
+    "labelId": "系统标签->技术类->月更新",
+    "labelName": "月更新",
+    "uuid": "5de8d0fda3734cf39648009c2e132f4e"
+  },
+  {
+    "parentLabelId": "系统标签->技术类",
+    "labelId": "系统标签->技术类->日更新",
+    "labelName": "日更新",
+    "uuid": "ae2e837134fd499dbc35f6c7ed479084"
+  },
+  {
+    "parentLabelId": "系统标签->技术类",
+    "labelId": "系统标签->技术类->非结构化",
+    "labelName": "非结构化",
+    "uuid": "654f12563e794e24b62e22ef78000d95"
+  },
+  {
+    "parentLabelId": "系统标签->技术类",
+    "labelId": "系统标签->技术类->结构化",
+    "labelName": "结构化",
+    "uuid": "6e34439f570b46a28f922503652086a4"
+  },
+  {
+    "parentLabelId": "系统标签->技术类",
+    "labelId": "系统标签->技术类->OT",
+    "labelName": "OT",
+    "uuid": "a267553d9cf94c14831a1cb8c0867abd"
+  },
+  {
+    "parentLabelId": "系统标签->技术类",
+    "labelId": "系统标签->技术类->IT",
+    "labelName": "IT",
+    "uuid": "7c01762f85e841f894fd947bf7dd482f"
+  },
+  {
+    "parentLabelId": "系统标签->技术类",
+    "labelId": "系统标签->技术类->已入湖",
+    "labelName": "已入湖",
+    "uuid": "a40b979c1ada484f99b1d7f016160cd3"
+  },
+  {
+    "parentLabelId": "系统标签->技术类",
+    "labelId": "系统标签->技术类->未入湖",
+    "labelName": "未入湖",
+    "uuid": "84b43389d4c645a6a12d7842c42fda8a"
+  }
+]
